@@ -1,6 +1,3 @@
-Perfect! Here’s a clean and professional `README.md` tailored for your [CSV_Parsing](https://github.com/trishita-26/CSV_Parsing) GitHub repository. This will showcase your project nicely to recruiters and fellow devs:
-
----
 
 ```markdown
 # CSV Cleaner and Parser 🧹📊
